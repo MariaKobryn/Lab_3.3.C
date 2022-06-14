@@ -1,0 +1,5 @@
+﻿  Lab_3.3.C.cpp
+  LongLong.cpp
+C:\Users\Maria\source\repos\Lab_3.3.C\Lab_3.3.C\LongLong.cpp(1,1): warning C4103: alignment changed after including header, may be due to missing #pragma pack(pop)
+  Generating Code...
+  Lab_3.3.C.vcxproj -> C:\Users\Maria\source\repos\Lab_3.3.C\Debug\Lab_3.3.C.exe
